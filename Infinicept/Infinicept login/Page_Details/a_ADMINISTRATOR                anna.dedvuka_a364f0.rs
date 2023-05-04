@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ADMINISTRATOR                anna.dedvuka_a364f0</name>
+   <tag></tag>
+   <elementGuidId>c7f4eda6-fd1a-4c13-b5e0-f62aba580947</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading, please wait...'])[1]/following::a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8c1db2b3-0ceb-4ad8-806b-97ba929e396a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>488ea615-7f98-4d90-b8fa-4c707e2dd6f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle</value>
+      <webElementGuid>dbd0dbd2-c8df-43d3-b7c3-2a209b63fbc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>d160d07e-272d-4228-8fa9-b6dec0b8575c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    ADMINISTRATOR
+                anna.dedvukaj@infinicept.com 
+            </value>
+      <webElementGuid>6dad6b5f-c71e-4bd5-abbf-7a5ceeba9d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths todataurljpeg todataurlwebp&quot;]/body[@class=&quot;app&quot;]/header[1]/nav[@class=&quot;navbar navbar-inverse navbar-static-top hidden-print&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;float-right&quot;]/div[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]</value>
+      <webElementGuid>0f9ffa8d-7b2a-482b-bf91-b2281ac68088</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading, please wait...'])[1]/following::a[2]</value>
+      <webElementGuid>af401698-25e0-488f-9a4e-46d269f52ddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[2]</value>
+      <webElementGuid>a1c68cc0-2ff3-4bdf-a5a2-fdd24d956157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='anna.dedvukaj@infinicept.com']/parent::*</value>
+      <webElementGuid>eb9c5125-cc6d-4503-bdff-45ea9329245f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>ace51bb3-d9e6-454c-9db2-5f56845b2b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>be503b82-edcd-4a51-a820-7b5a6feda8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                    ADMINISTRATOR
+                anna.dedvukaj@infinicept.com 
+            ' or . = '
+                    ADMINISTRATOR
+                anna.dedvukaj@infinicept.com 
+            ')]</value>
+      <webElementGuid>4fe0394f-e5c7-47e6-b604-f77b2f09287b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

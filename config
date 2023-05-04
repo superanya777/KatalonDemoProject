@@ -1,0 +1,10 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://Infinicept-Engineering@dev.azure.com/Infinicept-Engineering/Katalon%20Learning/_git/Katalon%20Learning
+	fetch = refs/heads/*:refs/heads/*
+	fetch = refs/tags/*:refs/tags/*
+	tagopt = --tags

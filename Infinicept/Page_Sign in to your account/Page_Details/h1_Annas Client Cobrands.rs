@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Annas Client Cobrands</name>
+   <tag></tag>
+   <elementGuidId>ba38d07b-938c-4170-8c62-ed054348677d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>48ba0f70-27de-4fdf-a543-77585dac562c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anna's Client Cobrands</value>
+      <webElementGuid>c23ec7c0-ec08-48ca-83e6-74ec99b1eebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/h1[1]</value>
+      <webElementGuid>856d4902-224b-4ce7-a684-ba8d34260639</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/h1</value>
+      <webElementGuid>d2ccad50-ecba-46d8-8c82-1ee342568cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Anna', &quot;'&quot;, 's Client')])[1]/following::h1[1]</value>
+      <webElementGuid>a99be0f5-9e60-4cda-8652-95096bc9e014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin home'])[1]/following::h1[1]</value>
+      <webElementGuid>7ef6ce12-af28-4f9d-88a6-24a2c75cbec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CoBrands'])[1]/preceding::h1[1]</value>
+      <webElementGuid>3b95c984-0497-4a4f-a45c-ac8b68986442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/preceding::h1[1]</value>
+      <webElementGuid>93f5524c-e0d7-4814-882a-40e5ab5112fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>9dd8dc00-0c68-4dcc-a645-88effe32fe0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = concat(&quot;Anna&quot; , &quot;'&quot; , &quot;s Client Cobrands&quot;) or . = concat(&quot;Anna&quot; , &quot;'&quot; , &quot;s Client Cobrands&quot;))]</value>
+      <webElementGuid>311b0a0a-a1f3-4df0-afc9-39d8d43f8349</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
